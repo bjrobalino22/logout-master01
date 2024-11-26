@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="logout-master">
+    <output-path>$PROJECT_DIR$/out/artifacts/logout_master</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="logout-master" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="logout-master/web/Web" />
+    </root>
+  </artifact>
+</component>
